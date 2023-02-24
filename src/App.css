@@ -5,7 +5,7 @@ body, html {
 }
 
 .App {
-  background-color: #1b1d1e;
+  background-image: url("./images/background.png");
   background-repeat: no-repeat;
   background-size: contain;
 }
