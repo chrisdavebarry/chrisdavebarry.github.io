@@ -10,13 +10,28 @@ body, html {
   background-size: contain;
 }
 
-#Name {
+#Name{
   max-width:100%;
+  position:relative;
   animation-name: nameLoadTransition;
   animation-duration: 3s;
 }
 
+#linkedIn {
+  position: absolute;
+  animation-name: linkedInLoadTransition;
+  animation-duration: 5s;
+}
+
 @keyframes nameLoadTransition {
+  from {
+    transform: translateY(100%);
+  } to {
+    transform: translateY(0%);
+  }
+}
+
+@keyframes linkedInLoadTransition {
   from {
     transform: translateY(100%);
   } to {
