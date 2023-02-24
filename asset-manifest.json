@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/chrisdavebarry.github.io/static/css/main.fac7f369.css",
-    "main.js": "/chrisdavebarry.github.io/static/js/main.d114505d.js",
-    "static/js/787.1ed0c42c.chunk.js": "/chrisdavebarry.github.io/static/js/787.1ed0c42c.chunk.js",
-    "static/media/background.png": "/chrisdavebarry.github.io/static/media/background.2dbfa448ccafcd9bbfa1.png",
-    "static/media/name.png": "/chrisdavebarry.github.io/static/media/name.8cf596eef66152427b25.png",
-    "static/media/linkedInLogo.png": "/chrisdavebarry.github.io/static/media/linkedInLogo.9c71e947459224e61192.png",
-    "index.html": "/chrisdavebarry.github.io/index.html",
-    "main.fac7f369.css.map": "/chrisdavebarry.github.io/static/css/main.fac7f369.css.map",
-    "main.d114505d.js.map": "/chrisdavebarry.github.io/static/js/main.d114505d.js.map",
-    "787.1ed0c42c.chunk.js.map": "/chrisdavebarry.github.io/static/js/787.1ed0c42c.chunk.js.map"
+    "main.css": "/static/css/main.470dbd36.css",
+    "main.js": "/static/js/main.9329e51e.js",
+    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
+    "static/media/background.png": "/static/media/background.2dbfa448ccafcd9bbfa1.png",
+    "static/media/name.png": "/static/media/name.8cf596eef66152427b25.png",
+    "static/media/linkedInLogo.png": "/static/media/linkedInLogo.9c71e947459224e61192.png",
+    "index.html": "/index.html",
+    "main.470dbd36.css.map": "/static/css/main.470dbd36.css.map",
+    "main.9329e51e.js.map": "/static/js/main.9329e51e.js.map",
+    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fac7f369.css",
-    "static/js/main.d114505d.js"
+    "static/css/main.470dbd36.css",
+    "static/js/main.9329e51e.js"
   ]
 }
