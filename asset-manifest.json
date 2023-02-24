@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/chrisdavebarry-com/static/css/main.bcca9d22.css",
-    "main.js": "/chrisdavebarry-com/static/js/main.f7f60975.js",
-    "static/js/787.1ed0c42c.chunk.js": "/chrisdavebarry-com/static/js/787.1ed0c42c.chunk.js",
-    "static/media/background.png": "/chrisdavebarry-com/static/media/background.f9738c3d7bc530a312bf.png",
-    "static/media/name.png": "/chrisdavebarry-com/static/media/name.93ac569c9dccbcc34118.png",
-    "index.html": "/chrisdavebarry-com/index.html",
-    "main.bcca9d22.css.map": "/chrisdavebarry-com/static/css/main.bcca9d22.css.map",
-    "main.f7f60975.js.map": "/chrisdavebarry-com/static/js/main.f7f60975.js.map",
-    "787.1ed0c42c.chunk.js.map": "/chrisdavebarry-com/static/js/787.1ed0c42c.chunk.js.map"
+    "main.css": "/static/css/main.f73bc6f2.css",
+    "main.js": "/static/js/main.ed20209a.js",
+    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
+    "static/media/background.png": "/static/media/background.f9738c3d7bc530a312bf.png",
+    "static/media/name.png": "/static/media/name.93ac569c9dccbcc34118.png",
+    "index.html": "/index.html",
+    "main.f73bc6f2.css.map": "/static/css/main.f73bc6f2.css.map",
+    "main.ed20209a.js.map": "/static/js/main.ed20209a.js.map",
+    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.bcca9d22.css",
-    "static/js/main.f7f60975.js"
+    "static/css/main.f73bc6f2.css",
+    "static/js/main.ed20209a.js"
   ]
 }
