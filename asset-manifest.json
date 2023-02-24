@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.f73bc6f2.css",
-    "main.js": "/static/js/main.ed20209a.js",
-    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
-    "static/media/background.png": "/static/media/background.f9738c3d7bc530a312bf.png",
-    "static/media/name.png": "/static/media/name.93ac569c9dccbcc34118.png",
-    "index.html": "/index.html",
-    "main.f73bc6f2.css.map": "/static/css/main.f73bc6f2.css.map",
-    "main.ed20209a.js.map": "/static/js/main.ed20209a.js.map",
-    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
+    "main.css": "/chrisdavebarry.github.io/static/css/main.df355882.css",
+    "main.js": "/chrisdavebarry.github.io/static/js/main.048604a5.js",
+    "static/js/787.1ed0c42c.chunk.js": "/chrisdavebarry.github.io/static/js/787.1ed0c42c.chunk.js",
+    "static/media/background.png": "/chrisdavebarry.github.io/static/media/background.f9738c3d7bc530a312bf.png",
+    "static/media/name.png": "/chrisdavebarry.github.io/static/media/name.93ac569c9dccbcc34118.png",
+    "index.html": "/chrisdavebarry.github.io/index.html",
+    "main.df355882.css.map": "/chrisdavebarry.github.io/static/css/main.df355882.css.map",
+    "main.048604a5.js.map": "/chrisdavebarry.github.io/static/js/main.048604a5.js.map",
+    "787.1ed0c42c.chunk.js.map": "/chrisdavebarry.github.io/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f73bc6f2.css",
-    "static/js/main.ed20209a.js"
+    "static/css/main.df355882.css",
+    "static/js/main.048604a5.js"
   ]
 }
