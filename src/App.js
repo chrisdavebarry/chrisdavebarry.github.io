@@ -5,17 +5,9 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <Name/>
+      <img src={nameImage} alt="" id="Name"></img>
     </div>
   );
-}
-
-function Name() {
-  return(
-    <div className="Name">
-      <img src={nameImage} alt=""></img>
-    </div>
-  )
 }
 
 

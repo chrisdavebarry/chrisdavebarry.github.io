@@ -1,6 +1,6 @@
 {
-  "short_name": "Chris Barry's Portfolio",
-  "name": "Chris Barry's Developer Portfolio",
+  "short_name": "React App",
+  "name": "Create React App Sample",
   "icons": [
     {
       "src": "favicon.ico",
